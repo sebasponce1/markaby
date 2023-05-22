@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
