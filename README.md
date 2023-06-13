@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Object Counter improvements (#8648)
