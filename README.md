@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Move Explorer tests to scheduled CI (#8305)
