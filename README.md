@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
