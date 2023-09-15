@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update Docs language dropdown height (#6927)
