@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
