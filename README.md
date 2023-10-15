@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
