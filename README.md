@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
