@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Update format.yml to pull_request_target (#7460)
