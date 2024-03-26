@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add OBB benchmarks to CI (#7777)
