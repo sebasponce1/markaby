@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix heatmaps width-height order bug (#7184)
