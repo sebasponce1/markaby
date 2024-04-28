@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
