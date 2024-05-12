@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fix device counting method to account for double-digit device IDs (#8502)
