@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
