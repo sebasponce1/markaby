@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
