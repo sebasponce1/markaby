@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Avoid creating -hub dir without processing images (#8334)
