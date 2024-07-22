@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
