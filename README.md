@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
