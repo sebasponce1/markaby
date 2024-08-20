@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
