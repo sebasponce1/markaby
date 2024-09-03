@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
