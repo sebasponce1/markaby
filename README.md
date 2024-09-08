@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
