@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Replace onnx2tf usage from CLI to Python (#8429)
