@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+docs: update view-results-in-terminal.md (#66)
