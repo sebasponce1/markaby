@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Docs partial mdformat improvements (#7378)
