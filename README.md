@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Faster batch same_shapes (#8851)
