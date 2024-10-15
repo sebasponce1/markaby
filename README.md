@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
